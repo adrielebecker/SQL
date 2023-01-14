@@ -1,0 +1,1 @@
+select nome, email, senha as email_senha, funcao.id as função from login.usuario, login.funcao where funcao.id = 1;

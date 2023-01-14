@@ -1,0 +1,1 @@
+delete from login.usuario where id=3
